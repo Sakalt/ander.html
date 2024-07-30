@@ -1,0 +1,1129 @@
+{
+  "words": [
+    {
+      "entry": {
+        "id": 1,
+        "form": "haus"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "家"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "haʊs"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 2,
+        "form": "freund"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "友達"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "fʁɔɪ̯nt"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 3,
+        "form": "sneg"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "雪"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "snʲek"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 4,
+        "form": "chat"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "話す"
+          ]
+        }
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ʃat"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 5,
+        "form": "essen"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "食べる"
+          ]
+        }
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈɛsn̩"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 6,
+        "form": "livre"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "本"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "livʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 7,
+        "form": "schule"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "学校"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈʃuːlə"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 8,
+        "form": "reisen"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "旅行する"
+          ]
+        }
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈʁaɪ̯zn̩"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 9,
+        "form": "étudier"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "勉強する"
+          ]
+        }
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "etyˈdje"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 10,
+        "form": "vin"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "ワイン"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "vɛ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 11,
+        "form": "matin"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "朝"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "matɛ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 12,
+        "form": "voiture"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "車"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "vwa.tyʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 13,
+        "form": "kniga"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "本"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈknʲigə"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 14,
+        "form": "pen"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "ペン"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "pɛn"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 15,
+        "form": "port"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "港"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "pɔʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 16,
+        "form": "wasser"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "水"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈvasɐ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 17,
+        "form": "garten"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "庭"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈɡaʁtn̩"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 18,
+        "form": "bibliothèque"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "図書館"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "bibljoˈtɛk"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 19,
+        "form": "maison"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "家"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "mɛ.zɔ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 20,
+        "form": "ordinateur"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "コンピュータ"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ɔʁ.di.na.tœʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 21,
+        "form": "apfel"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "りんご"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈapfəl"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 22,
+        "form": "hotel"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "ホテル"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "o.tɛl"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 23,
+        "form": "krasny"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "赤い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈkrasnɨj"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 24,
+        "form": "blau"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "青い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "blaʊ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 25,
+        "form": "schwarz"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "黒い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ʃvaʁts"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 26,
+        "form": "weiß"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "白い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "vaɪs"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 27,
+        "form": "neu"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "新しい"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "nɔɪ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 28,
+        "form": "alt"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "古い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "alt"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 29,
+        "form": "später"
+      },
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": [
+            "後で"
+          ]
+        }
+      ],
+      "tags": [
+        "副詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈʃpɛːtɐ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 30,
+        "form": "gestern"
+      },
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": [
+            "昨日"
+          ]
+        }
+      ],
+      "tags": [
+        "副詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈɡɛstɐn"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 31,
+        "form": "heute"
+      },
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": [
+            "今日"
+          ]
+        }
+      ],
+      "tags": [
+        "副詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈhɔʏtə"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 32,
+        "form": "morgen"
+      },
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": [
+            "明日"
+          ]
+        }
+      ],
+      "tags": [
+        "副詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈmɔʁɡn̩"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 33,
+        "form": "jetzt"
+      },
+      "translations": [
+        {
+          "title": "副詞",
+          "forms": [
+            "今"
+          ]
+        }
+      ],
+      "tags": [
+        "副詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "jɛtst"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 34,
+        "form": "mont"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "月"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "mɔ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 35,
+        "form": "année"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "年"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "a.ne"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 36,
+        "form": "temps"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "時間"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "tɑ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 37,
+        "form": "froid"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "寒い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "fʁwa"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 38,
+        "form": "chaud"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "暑い"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ʃo"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 39,
+        "form": "grand"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "大きい"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ɡʁɑ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 40,
+        "form": "petit"
+      },
+      "translations": [
+        {
+          "title": "形容詞",
+          "forms": [
+            "小さい"
+          ]
+        }
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "pə.ti"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 41,
+        "form": "jour"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "日"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ʒuʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 42,
+        "form": "stol"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "テーブル"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "stol"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 43,
+        "form": "dormir"
+      },
+      "translations": [
+        {
+          "title": "動詞",
+          "forms": [
+            "寝る"
+          ]
+        }
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "dɔʁ.miʁ"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 44,
+        "form": "pivo"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "ビール"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "ˈpʲivə"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    },
+    {
+      "entry": {
+        "id": 45,
+        "form": "train"
+      },
+      "translations": [
+        {
+          "title": "名詞",
+          "forms": [
+            "列車"
+          ]
+        }
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "contents": [
+        {
+          "title": "Pronunciation",
+          "text": "tʁɛ̃"
+        }
+      ],
+      "variations": [],
+      "relations": []
+    }
+  ]
+}
